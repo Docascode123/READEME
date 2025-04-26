@@ -11,7 +11,7 @@ I have worked on the following tools:
 + Snag IT
 + FS Capture
 + JIRA
-+ SAP12324678
++ SAP  
 
 I have done following certifications:
 1. *MS-CT*
