@@ -8,10 +8,10 @@ I have worked on the following tools:
 + Oxygen XML Editor
 + Confluence
 + Adobe FrameMaker
-+Snag IT
++ Snag IT
 + FS Capture
 + JIRA
-+ SAP\
++ SAP  
 
 I have done following certifications:
 1. *MS-CT*
